@@ -14,17 +14,12 @@ def add_song(song)
 end
 
 def songs
-  @songs 
-end 
+  @songs
+end
 
 def self.song_count
-  @@song_count 
+  @@song_count
 end
-end 
-
-
-
-  def self.song_count
-    @@song_count
-  end
 end
+
+
