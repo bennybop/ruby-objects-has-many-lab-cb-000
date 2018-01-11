@@ -9,6 +9,8 @@ attr_accessor :name
 
   def posts
     @posts
-  end 
+  end
+
+  def add_post 
 
 end
